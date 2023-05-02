@@ -1,0 +1,9 @@
+« lang » indique dans quelle langue générer le code, 0 = CSharp, 1 = Vb.Net et 3 = FSharp
+
+{
+    "projectName": "CryptoZombie",
+    "namespace": "CryptoZombie.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}

@@ -1,5 +1,3 @@
-
-
 {
     "projectName": "CryptoZombie",
     "namespace": "CryptoZombie.Contracts",
@@ -7,3 +5,10 @@
     "autoCodeGen": true,
     "projectPath": "../"
 }
+
+// projectName : Nom du projet.
+// namespace : Espace de noms pour les classes générées.
+// lang : Indique dans quelle langue générer le code. La valeur 0 correspond à C#, 1 correspond à Vb.Net et 3 correspond à F#.
+// autoCodeGen : Indique si la génération de code automatique est activée.
+// projectPath : Chemin du projet où le code généré sera enregistré.
+// Ces propriétés permettent de configurer les paramètres de génération de code selon les besoins du projet.
